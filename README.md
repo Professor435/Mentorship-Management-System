@@ -6,7 +6,7 @@ After 6 months of development, I'm excited to unveil MentorFlow — an AI-powere
 ✨ What makes it different?
 • AI-driven mentor-mentee matching (94% compatibility rate)
 • Real-time progress tracking & goal management
-• Integrated video conferencing & scheduling
+• Integrated video conferencing & scheduling 
 • Advanced analytics dashboard for program ROI
 The results? 78% goal completion rate and 4.8/5 satisfaction scores from our beta users.
 In a world where 94% of employees say they'd stay longer at companies that invest in their development , tools like this aren't just nice-to-have — they're strategic imperatives.

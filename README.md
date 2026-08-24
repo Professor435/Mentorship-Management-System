@@ -5,7 +5,7 @@ Just launched: The future of mentorship is here.
 After 6 months of development, I'm excited to unveil MentorFlow — an AI-powered mentorship management system that's already transforming how organizations nurture talent.
 ✨ What makes it different?
 • AI-driven mentor-mentee matching (94% compatibility rate)
-• Real-time progress tracking & goal management
+• Real-time progress tracking & goal management 
 • Integrated video conferencing & scheduling  
 • Advanced analytics dashboard for program ROI 
 The results? 78% goal completion rate and 4.8/5 satisfaction scores from our beta users.
